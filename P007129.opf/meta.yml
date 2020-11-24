@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15210
   title: འཇིག་རྟེན་སྐྱེ་བོའི་བློ་སྒོ་འབྱེད་པའི་དཔེ་མཚོན་གཏམ་རྒྱུད ༡༠༡།
-  volume: ''
+  volume:
+    d4f605ead1364ef3bc14ee0de5254905:
+      image_group_id: I1KG15213
+      title: Volume 1 of 'jig rten skye bo'i blo sgo 'byed pa'i dpe mtshon gtam rgyud
+        101/
+      volume_number: 1
+      total_pages: 358
   author: ''
+ebook_metadata:
+  title: འཇིག་རྟེན་སྐྱེ་བོའི་བློ་སྒོ་འབྱེད་པའི་དཔེ་མཚོན་གཏམ་རྒྱུད ༡༠༡།
+  author: ''
+  sku: P007129
+  cover: cover.jpg
+  layers:
+  - pagination
